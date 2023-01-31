@@ -1,2 +1,2 @@
 My first readme
-This is a edit and a commit from Github interface. 
+This is an edit and a commit from the Github interface. 
